@@ -1,4 +1,4 @@
-<h1>Hello there! 👋</h1>
+<h1>Hello there! </h1>
 <li> I'm @Hiba-Mohamed.</li> 
 <li> I'm interested in healthcare and enterprise innovation and efficiency.</li>
 <li> Currently, I'm learning coding. </li>
